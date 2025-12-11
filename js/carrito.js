@@ -90,8 +90,6 @@ function configurarBotonesEliminar() {
     }
 }
 
-
-
 function configurarCarrusel() {
     var carrusel = document.getElementById('carrusel');
     var botonIzquierda = document.getElementById('flecha-izq');
@@ -168,3 +166,4 @@ window.onload = function() {
     configurarMenuMovil();
 
 };
+
