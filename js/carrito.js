@@ -33,7 +33,7 @@ function mostrarProductosEnCarrito() {
         return;
     }
     
-  a
+  
     contenedorLista.innerHTML = '';
     
     // total
@@ -166,4 +166,5 @@ window.onload = function() {
     configurarCarrusel();
     configurarProductosSugeridos();
     configurarMenuMovil();
+
 };
